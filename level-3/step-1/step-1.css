@@ -4,6 +4,10 @@
     width: 100%;
     height: 200px;
     position: relative;
+    background-image: url("https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/5/50/Gorgeous-Mountain-Background.jpg/revision/latest?cb=20161111030301");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 
